@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"Quick",
+				"QuicksandDash"
+			],
+			[
+				"Quicksa",
+				"QuicksandLight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"medi",
+				"media-body"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"close",
+				"closest	.closest()"
+			],
+			[
+				"background-i",
+				"background-clip"
+			],
+			[
+				"comment",
+				"comment-delete"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"profile",
+				"profile-pic"
+			],
+			[
+				"delete",
+				"delete_post_link"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"mou",
+				"mouseenter	mouseenter"
+			],
+			[
+				"backgo",
+				"background-position"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ve",
+				"venues"
+			],
+			[
+				"ven",
+				"venues_arr"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"entry",
+				"entry-content"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"twitter",
+				"twitter_time"
+			],
+			[
+				"created",
+				"created_at"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"arrow",
+				"arrow_pad"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"slide",
+				"slidesjs-pagination"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"fon-",
+				"font-style"
+			],
+			[
+				"ins",
+				"insAd"
+			],
+			[
+				"c",
+				"chartreuse"
+			],
+			[
+				"pg",
+				"pageTitle"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"dosis",
+				"dosisextrabold"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text-t",
+				"text-decoration"
+			],
+			[
+				"dosisextr",
+				"dosisextralight"
+			],
+			[
+				"dos",
+				"dosisextrabold"
+			],
+			[
+				"small",
+				"smallAd"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"do",
+				"dosisextralight"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"backgour",
+				"background-color"
+			],
+			[
+				"Ostrich",
+				"OstrichSansRoundedMedium"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ostrich",
+				"OstrichSansRoundedMedium"
+			],
+			[
+				"ostr",
+				"OstrichSansBold"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"ost",
+				"OstrichSansRoundedMedium"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"ce",
+				"CE3234"
+			],
+			[
+				"cda",
+				"CDATA	Tag"
+			],
+			[
+				"hie",
+				"hierarchical"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"remove_me",
+				"remove_menu_page"
+			],
+			[
+				"bjqs",
+				"bjqs-markers"
+			],
+			[
+				"slid",
+				"slideCount"
+			],
+			[
+				"keyboa",
+				"keyboardNav"
+			],
+			[
+				"sldi",
+				"slidePosition"
+			],
+			[
+				"slidepos",
+				"slidePosition"
+			],
+			[
+				"sl",
+				"slides"
+			],
+			[
+				"bjq",
+				"bjqs"
+			],
+			[
+				"resize",
+				"resizeWidth"
+			],
+			[
+				"coun",
+				"Counter"
+			],
+			[
+				"sortc",
+				"sortCount"
+			],
+			[
+				"project",
+				"project-list"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"sub",
+				"subNav"
+			],
+			[
+				"check",
+				"checkCount"
+			],
+			[
+				"category_",
+				"category_to_check"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"cap",
+				"caption"
+			],
+			[
+				"view",
+				"viewPos"
+			],
+			[
+				"inner",
+				"innerW"
+			],
+			[
+				"hash",
+				"hashLink"
+			],
+			[
+				"tit",
+				"title	<title>"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"wp",
+				"wp_reset_query"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"title",
+				"post_title"
+			],
+			[
+				"l",
+				"link	link - alternate"
+			],
+			[
+				"wp_",
+				"wp_resest_query"
+			],
+			[
+				"slider",
+				"sliderWidth"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background-cl",
+				"background-color"
+			],
+			[
+				"bk",
+				"bkColor"
+			],
+			[
+				"div",
+				"div	<div>"
+			],
+			[
+				"book",
+				"bookshelf"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"vne",
+				"venue_cat"
+			],
+			[
+				"vene",
+				"venue_cat"
+			],
+			[
+				"right",
+				"right_column"
+			],
+			[
+				"path",
+				"pathToThumbs"
+			],
+			[
+				"json",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Schlafer/Sites/angular/untitled",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"sw",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 205.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Schlafer/Sites/nfoshare.com/app/assets/javascripts/plugins/bootstrap-form-helpers/bootstrap-formhelpers-phone.js",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/buttons.css",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/posts.css",
+		"/Users/Schlafer/Sites/nfoshare/app/views/user_mailer/digest_email.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/views/layouts/_top_nav.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/javascripts/feelings.js.coffee",
+		"/Users/Schlafer/.bash_profile",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/javascripts/posts.js",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/goals.css",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/javascripts/profiles.js.coffee",
+		"/Users/Schlafer/Sites/nfoshare/app/views/goals/_goal.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/views/profiles/show.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/application.css",
+		"/Users/Schlafer/Sites/nfoshare/app/models/post.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/models/promotion.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/views/courses/people.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/people.css",
+		"/Users/Schlafer/Sites/nfoshare/app/views/layouts/application.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/models/user.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/views/courses/dashboard.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/views/posts/_post.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/survey_questions.css",
+		"/Users/Schlafer/Sites/nfoshare/app/controllers/users_controller.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/controllers/sessions_controller.rb",
+		"/Users/Schlafer/Sites/nfoshare/log/development.log",
+		"/Users/Schlafer/Sites/nfoshare/db/seeds.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/assets/stylesheets/bootstrap-2.3.1/bootstrap.min.css",
+		"/Users/Schlafer/Sites/nfoshare/app/views/posts/index.js.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/views/posts/index.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/views/posts/_posts.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/controllers/promotions_controller.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/controllers/comments_controller.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/controllers/tags_controller.rb",
+		"/Users/Schlafer/Sites/nfoshare/app/views/survey_question_mailer/created_email.html.haml",
+		"/Users/Schlafer/Sites/nfoshare/app/controllers/posts_controller.rb",
+		"/Users/Schlafer/Sites/neongrae/fittsmenu/assets/css/fittsmenu.css",
+		"/Users/Schlafer/Sites/neongrae/simplellax/assets/css/style.scss",
+		"/Users/Schlafer/Sites/neongrae/simplellax/simplellax.html",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Aintnunya/Airwaves/changelog.txt",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Aintnunya/Airwaves/css/style.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Aintnunya/Airwaves/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Aintnunya/Airwaves/feed.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Aintnunya/Airwaves/venue.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/single.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/archive-medium.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/archive.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/projects.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/category.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/_/inc/posttime.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/twit.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/page.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/_/inc/TwitterAPIExchange.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/style.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/sidebar.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/footer.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer3/wp-content/themes/ps3/functions.php",
+		"/Users/Schlafer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Schlafer/Sites/MAMP/htdocs/wburg/js/vendor/waypoints-sticky.js",
+		"/Users/Schlafer/Sites/MAMP/htdocs/wburg/js/main.js",
+		"/Users/Schlafer/Sites/MAMP/htdocs/wburg/js/plugins.js",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Welcomesburg/config.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Welcomesburg/js/script.js",
+		"/Users/Schlafer/Sites/MAMP/htdocs/FinkBuilders/wp-content/themes/Fink Builders/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/datatoys/wp-content/themes/infinity (themetrust)/js/theme_trust.js",
+		"/Users/Schlafer/Sites/MAMP/htdocs/datatoys/wp-content/themes/infinity (themetrust)/style.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/PETLab/wp-content/themes/clean/sidebar.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/page.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/footer.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/functions.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/category.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/style.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/FinkBuilders/wp-content/themes/Fink Builders/single.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/FinkBuilders/wp-content/themes/Fink Builders/mail.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/about/css/about.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/about/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/law/css/law.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/insure/css/insure.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/footer.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/sitemap.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/health/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/insure/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/law/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/youth/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/page.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/health/css/health.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/projects.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/law/project.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/about.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/ads/law-ad.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/css/layout.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/js/script.js",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/rbtl/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/rbtl/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/rbtl/css/rbtl.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/rbtl/project.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/ads/rbtl-ad.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/config.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/health/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/youth/css/youth.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/ads/insure-ad.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/ads/health-ad.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/insure/footer.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/youth/footer.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/insure/project.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/insure/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/health/project.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/index.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/health/footer.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/kenya/header.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/kenya/css/kenya.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/health.php",
+		"/Users/Schlafer/Sites/TEST/index.html",
+		"/Users/Schlafer/Sites/TEST/css/layout.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Enterprising Design/wp-content/themes/EnterpriseDesign/single.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/FirstFile.txt",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/css/reset.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/css/fonts.css",
+		"/Users/Schlafer/Sites/MAMP/htdocs/pschlafer2/sidebar.php",
+		"/Users/Schlafer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Inc idea/config.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Inc idea/info.php",
+		"/Users/Schlafer/Library/Application Support/Firefox/Profiles/zfiz13e6.default/fireFTPsites.dat",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Inc idea/ads_1.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Inc idea/ads_2.php",
+		"/Users/Schlafer/Sites/MAMP/htdocs/Inc idea/program.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>,<open files>",
+			"<open folders>,<open files>,<open folders>",
+			"<open folders>",
+			"/Users/Schlafer/Documents/Parsons/Professional Communication/2+5/Website",
+			"<open files>",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stats",
+			" format('svg');",
+			"font-family: ",
+			"font-family:",
+			"	font-family:",
+			"	font-family: 'QuicksandLightOblique';",
+			"quicksand_light_oblizue",
+			"font-family: 'Quicksand';",
+			"quicksand",
+			"Quicksand",
+			"WebFont",
+			"interval",
+			"total",
+			"interval",
+			".format.",
+			".format",
+			"interval",
+			"url",
+			"course_feelings",
+			"course_feeling",
+			"create_via",
+			"feeling",
+			"|feeling",
+			"interval",
+			"secondary email",
+			"700px",
+			"7",
+			"hr",
+			"botom",
+			"confused",
+			"border",
+			"padding",
+			"padding:",
+			"border:0; border-radius:4px;",
+			"border-ra",
+			"scheduler.rake",
+			"5px",
+			"20px",
+			"dropdown-t",
+			"btn",
+			"overwhelme",
+			"command-add",
+			"bubble",
+			"icon-book",
+			"add one",
+			"dropdown",
+			"course",
+			".media-bod",
+			"add-comm",
+			".comment.new",
+			"feelings-course-chart",
+			"span7",
+			"right-column",
+			".count",
+			"name",
+			"activity this p",
+			"italic",
+			"your notes",
+			".unjoined:hover",
+			"link_to",
+			"title",
+			"hover",
+			"mouse",
+			"hover",
+			"modal-update-notes",
+			"notes",
+			"span5.name",
+			"span5.joined",
+			"joined.span5",
+			"name.joined",
+			"joined.name",
+			"joined_goals",
+			"social goals",
+			"-minus",
+			".joined",
+			"-minus",
+			".joined",
+			"email",
+			"textarea",
+			"comments",
+			"unless",
+			" unless",
+			".comment.new",
+			"{ ",
+			".number",
+			"p.",
+			"p.conten",
+			"opac",
+			"div",
+			"content",
+			"delete",
+			"trash",
+			"comment-de",
+			".siblings('.toolbar')",
+			"550px",
+			"sb.a",
+			"img",
+			".toolbar",
+			" textarea",
+			"math-attach",
+			"command-add-comm",
+			"comment_options",
+			"comment-options",
+			"post_options",
+			"post-options",
+			"new",
+			"icon-plus",
+			"{ ",
+			"comment-delete",
+			"{ ",
+			".timeago",
+			"profile_path",
+			"posts",
+			":class",
+			".nil",
+			"comments",
+			".promotions.count",
+			"promotions_count_cached",
+			"like",
+			"padding:4px 0 4px 0;",
+			"adding:4px 0 4px 0;",
+			"padding: 4px 0 4px 0; ",
+			".promotions",
+			"likes",
+			": ",
+			"posts",
+			"comments",
+			".media.comm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n",
+			"about",
+			"<?php include('nav.php');?>",
+			"<a href=\"marketing_1.php\"",
+			"marketing.php",
+			"<a href=\"marketing.php\"",
+			"<!--\n<footer>\n	<p><small>All characters appearing in this work are fictitious.<br/>Any resemblance to real persons, living or dead, is purely coincidental.</small></p>\n	<p><small>&copy;2012 Patrick Schlafer</small></p>\n</footer>\n-->",
+			"<footer>\n	<p><small>All characters appearing in this work are fictitious.<br/>Any resemblance to real persons, living or dead, is purely coincidental.</small></p>\n	<p><small>&copy;2012 Patrick Schlafer</small></p>\n</footer>",
+			"\n</div>\n\n<footer>\n	<p><small>All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.</small></p>\n	<p><small>&copy;2012 Patrick Schlafer</small></p>\n</footer>",
+			"	<footer>\n		<p><small>All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.</small></p>\n		<p><small>&copy;2012 Patrick Schlafer</small></p>\n	</footer>\n",
+			"(Continuum, Frog, Smart, etc)",
+			"<h1><a href=\"index.html\">Choose Patrick's Life</a></h1>",
+			"<h1><a href=\"index.html\">Choosing Patrick's Adventure</a></h1>",
+			"\"\\n\"",
+			"bookshelf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Schlafer/Sites/angular/untitled",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 161.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true
+}

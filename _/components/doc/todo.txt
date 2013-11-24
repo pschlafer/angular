@@ -1,0 +1,44 @@
+Per Environment
+
+Install Node.js 
+- go to http://nodejs.org
+- download and install
+Install Grunt
+- open terminal
+- sudo npm install -g grunt-cli
+- type your password
+install Compass & Susy
+- gem update --system
+- gem install compass
+- gem install susy
+
+Per Project
+
+Create GitHub repository https://github.com/new
+Install npm dependencies
+- on terminal, go to project
+- npm install
+Customize package.json
+- title (no spaces), author, description, or add more (https://npmjs.org/doc/json.html)
+Customize index.html
+- Add title, line 10
+- Add meta content, line 11 to 14
+- Design iOS, web, windows icons, on _/ico/
+- Add windows app meta content, line 23,24 (title, tile color)
+
+Per Session
+
+- open terminal
+- go to project folder
+- grunt
+
+---------------
+
+
+
+Sublime Keymap
+
+end of line: ⌃e
+type ⌘⇧P, search for kbu, enter,add this line:
+{ "keys": ["control+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+

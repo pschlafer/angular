@@ -1,0 +1,32 @@
+Advanced Emmet Tips
+
+basic html: !
+Commenting: ⌘/ (select first to comment only selected)
+navigating thru edit points:
+	to next: ⌃⌥→
+	to previous: ⌃⌥←
+raising or decreasing a number:
+	select number
+	raise: ⌃↑
+	decrease: ⌃↓
+	(make sure to go to system preferences, keyboard, shortcuts, and deselct mission control and application windows)
+
+match tag pair:
+	to go up: ⌃D
+	to go down: ⌃J (doesn't work)
+
+Go to Matching Pair: ⇧⌃T (doesn't work)
+
+number elements with $
+	use additional $$$ to pad
+	start at a different position with @
+	reverse the order with @-
+
+lists
+	select list
+	abreviation command: ⌃w
+	wrap tags per line: *
+	use line copy somewhere else: $#
+
+
+
